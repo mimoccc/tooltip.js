@@ -1,0 +1,13 @@
+/***********************************
+		jsTooltipStyle.css
+	Main stylesheet for jsTooltip
+***********************************/
+
+#_thisTooltip {position:absolute; display:block; background:url('images/tt_left.gif') top left no-repeat;}
+				
+#_thisTooltiptop {display:block; height:5px; margin-left:5px; background:url('images/tt_top.gif') top right no-repeat;}
+
+#_thisTooltipcont {display:block; padding:5px 12px 2px 12px; margin-left:5px; font-family: Georgia, Helvetica, serif;
+				   background:#666; color:white; font-size: 12px; font-weight:600; font-style:oblique;}
+
+#_thisTooltipbot {display:block; height:5px; margin-left:5px; background:url('images/tt_bottom.gif') bottom right no-repeat;}
