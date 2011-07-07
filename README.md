@@ -7,11 +7,11 @@ particular HTML element. It takes two parameters; its text content and its width
 How to use it:
 
 <pre> 
-     &lt!--tooltip shows up when there is a mouseover event on the image-->
+     &lt;!--tooltip shows up when there is a mouseover event on the image-->
 
-     &lta href="#" 
-	onmouseover="jsTooltip.show('This is a picture of a tree',200)"
-	onmouseout="jsTooltip.hide()">
-	&ltimg src="images/tree.png" />
-     &lt/a>  
+     &lt;a href="#" 
+	     onmouseover="jsTooltip.show('This is a picture of a tree',200)"
+	     onmouseout="jsTooltip.hide()">
+     &lt;img src="images/tree.png" />
+     &lt;/a>  
 </pre> 
