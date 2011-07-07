@@ -1,6 +1,6 @@
 /****************************************************
-		100% Cross-Browser Javascript Tooltip
-		Plugin with adjustable width and height 
+	100% Cross-Browser Javascript Tooltip
+	Plugin with adjustable width and height 
 ****************************************************/
 
 var jsTooltip = function(){
